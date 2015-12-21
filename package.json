@@ -1,0 +1,23 @@
+{
+  "name": "stpwrds",
+  "version": "0.2.0",
+  "description": "Yet another “stopwords” package",
+  "main": "release/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v0lkan/stpwrds.git"
+  },
+  "keywords": [
+    "stopwords",
+    "English"
+  ],
+  "author": "Volkan Özçelik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/v0lkan/stpwrds/issues"
+  },
+  "homepage": "https://github.com/v0lkan/stpwrds#readme"
+}
